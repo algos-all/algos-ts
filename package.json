@@ -1,0 +1,18 @@
+{
+  "name": "algos-ts",
+  "version": "1.0.0",
+  "description": "Some computer science algorithms written in TypeScript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksandr Lisianoi",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alisianoi/algos-js.git"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "ts-node": "^7.0.1"
+  }
+}
