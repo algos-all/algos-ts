@@ -1,8 +1,6 @@
 # The algos-ts project
-<!--
-[![Travis](https://img.shields.io/travis/alisianoi/algos-js.svg)](https://travis-ci.org/alisianoi/algos-js)
-[![Coveralls](https://img.shields.io/coveralls/alisianoi/algos-js.svg)](https://coveralls.io/github/alisianoi/algos-js)
-[![npm](https://img.shields.io/npm/v/algos-js.svg)](https://www.npmjs.com/package/algos-js) -->
+
+[![Travis](https://img.shields.io/travis/alisianoi/algos-ts.svg)](https://travis-ci.org/alisianoi/algos-ts)
 [![license](https://img.shields.io/github/license/alisianoi/algos-ts.svg)](https://choosealicense.com/licenses/mit/)
 
 ## What is the algos-js project?
