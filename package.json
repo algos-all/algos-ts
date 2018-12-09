@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Some computer science algorithms written in TypeScript",
   "scripts": {
+    "lint": "tslint --project tsconfig.json --config tslint.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aleksandr Lisianoi",
@@ -13,6 +14,8 @@
   },
   "devDependencies": {
     "mocha": "^5.2.0",
-    "ts-node": "^7.0.1"
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.2.2"
   }
 }
