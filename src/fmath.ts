@@ -15,7 +15,6 @@
  * @return   the total number of ways to choose k items from the pile of n items
  */
 export function fcomb(n: number, k: number): number {
-
     if (k < 0 || k > n) {
         throw new RangeError(`Value of k must be in [0, ${n}], was ${k}`);
     }
