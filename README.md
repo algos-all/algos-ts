@@ -1,6 +1,5 @@
 # The algos-ts project
 
-[![Travis](https://img.shields.io/travis/alisianoi/algos-ts.svg)](https://travis-ci.org/alisianoi/algos-ts)
 [![license](https://img.shields.io/github/license/alisianoi/algos-ts.svg)](https://choosealicense.com/licenses/mit/)
 
 ## What is the algos-js project?
