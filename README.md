@@ -1,5 +1,6 @@
 # The algos-ts project
 
+[![Unit Tests](https://github.com/alisianoi/algos-ts/actions/workflows/node.js.yml/badge.svg)](https://github.com/algos-all/algos-ts/actions/workflows/node.js.yml)
 [![license](https://img.shields.io/github/license/alisianoi/algos-ts.svg)](https://choosealicense.com/licenses/mit/)
 
 ## What is the algos-js project?
